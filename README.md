@@ -1,5 +1,7 @@
 # Practice Paper Generator
 
+<img width="2100" height="3940" alt="diagram (3)" src="https://github.com/user-attachments/assets/da4bca3c-4a20-4fcc-b54f-4c9532d3c263" />
+
 A modular Python project for building a local offline question bank by scraping aptitude websites and generating randomized practice papers.
 
 The project is designed to be easily extensible:
