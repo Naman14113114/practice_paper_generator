@@ -214,3 +214,61 @@ class IndiaBixScraper(BaseScraper):
         )
 
         return all_questions
+    
+        
+    # --------------------------------------------------
+    # Discover Topics
+    # --------------------------------------------------
+
+    def discover_topics(self):
+
+        print(f"\n[{self.name}] Discovering topics...")
+
+        soup = self.get_page(
+            "https://www.indiabix.com/aptitude/"
+        )
+
+        wrapper = soup.find(
+            "div",
+            class_="topics-wrapper"
+        )
+
+        if wrapper is None:
+            raise Exception(
+                "Could not locate topics-wrapper."
+            )
+
+        topics = {}
+
+        for link in wrapper.find_all("a"):
+
+            name = link.get_text(
+                " ",
+                strip=True
+            )
+
+            href = link.get("href")
+
+            if not name:
+                continue
+
+            if not href:
+                continue
+
+            key = (
+                name.lower()
+                .replace("&", "and")
+                .replace("'", "")
+                .replace(".", "")
+                .replace(",", "")
+                .replace("-", "_")
+                .replace(" ", "_")
+            )
+
+            topics[key] = href
+
+        print(
+            f"[{self.name}] Found {len(topics)} topics."
+        )
+
+        return topics
