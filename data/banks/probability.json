@@ -1,0 +1,126 @@
+[
+    {
+        "question": "Tickets numbered 1 to 20 are mixed up and then a ticket is drawn at random. What is the probability that the ticket drawn has a number which is a multiple of 3 or 5?",
+        "options": [
+            {
+                "letter": "A",
+                "text": "1/2"
+            },
+            {
+                "letter": "B",
+                "text": "2/5"
+            },
+            {
+                "letter": "C",
+                "text": "8/15"
+            },
+            {
+                "letter": "D",
+                "text": "9/20"
+            }
+        ],
+        "answer": "D",
+        "source": "IndiaBix",
+        "topic_url": "https://www.indiabix.com/aptitude/probability/"
+    },
+    {
+        "question": "A bag contains 2 red, 3 green and 2 blue balls. Two balls are drawn at random. What is the probability that none of the balls drawn is blue?",
+        "options": [
+            {
+                "letter": "A",
+                "text": "10/21"
+            },
+            {
+                "letter": "B",
+                "text": "11/21"
+            },
+            {
+                "letter": "C",
+                "text": "2/7"
+            },
+            {
+                "letter": "D",
+                "text": "5/7"
+            }
+        ],
+        "answer": "A",
+        "source": "IndiaBix",
+        "topic_url": "https://www.indiabix.com/aptitude/probability/"
+    },
+    {
+        "question": "In a box, there are 8 red, 7 blue and 6 green balls. One ball is picked up randomly. What is the probability that it is neither red nor green?",
+        "options": [
+            {
+                "letter": "A",
+                "text": "1/3"
+            },
+            {
+                "letter": "B",
+                "text": "3/4"
+            },
+            {
+                "letter": "C",
+                "text": "7/19"
+            },
+            {
+                "letter": "D",
+                "text": "8/21"
+            },
+            {
+                "letter": "E",
+                "text": "9/21"
+            }
+        ],
+        "answer": "A",
+        "source": "IndiaBix",
+        "topic_url": "https://www.indiabix.com/aptitude/probability/"
+    },
+    {
+        "question": "What is the probability of getting a sum 9 from two throws of a dice?",
+        "options": [
+            {
+                "letter": "A",
+                "text": "1/6"
+            },
+            {
+                "letter": "B",
+                "text": "1/8"
+            },
+            {
+                "letter": "C",
+                "text": "1/9"
+            },
+            {
+                "letter": "D",
+                "text": "1/12"
+            }
+        ],
+        "answer": "C",
+        "source": "IndiaBix",
+        "topic_url": "https://www.indiabix.com/aptitude/probability/"
+    },
+    {
+        "question": "Three unbiased coins are tossed. What is the probability of getting at most two heads?",
+        "options": [
+            {
+                "letter": "A",
+                "text": "3/4"
+            },
+            {
+                "letter": "B",
+                "text": "1/4"
+            },
+            {
+                "letter": "C",
+                "text": "3/8"
+            },
+            {
+                "letter": "D",
+                "text": "7/8"
+            }
+        ],
+        "answer": "D",
+        "source": "IndiaBix",
+        "topic_url": "https://www.indiabix.com/aptitude/probability/"
+    }
+]
