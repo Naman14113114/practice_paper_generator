@@ -122,5 +122,245 @@
         "answer": "D",
         "source": "IndiaBix",
         "topic_url": "https://www.indiabix.com/aptitude/probability/"
+    },
+    {
+        "question": "Two dice are thrown simultaneously. What is the probability of getting two numbers whose product is even?",
+        "options": [
+            {
+                "letter": "A",
+                "text": "1/2"
+            },
+            {
+                "letter": "B",
+                "text": "3/4"
+            },
+            {
+                "letter": "C",
+                "text": "3/8"
+            },
+            {
+                "letter": "D",
+                "text": "5/16"
+            }
+        ],
+        "answer": "B",
+        "source": "IndiaBix",
+        "topic_url": "https://www.indiabix.com/aptitude/probability/066002"
+    },
+    {
+        "question": "In a class, there are 15 boys and 10 girls. Three students are selected at random. The probability that 1 girl and 2 boys are selected, is:",
+        "options": [
+            {
+                "letter": "A",
+                "text": "21/46"
+            },
+            {
+                "letter": "B",
+                "text": "25/117"
+            },
+            {
+                "letter": "C",
+                "text": "1/50"
+            },
+            {
+                "letter": "D",
+                "text": "3/25"
+            }
+        ],
+        "answer": "A",
+        "source": "IndiaBix",
+        "topic_url": "https://www.indiabix.com/aptitude/probability/066002"
+    },
+    {
+        "question": "In a lottery, there are 10 prizes and 25 blanks. A lottery is drawn at random. What is the probability of getting a prize?",
+        "options": [
+            {
+                "letter": "A",
+                "text": "1/10"
+            },
+            {
+                "letter": "B",
+                "text": "2/5"
+            },
+            {
+                "letter": "C",
+                "text": "2/7"
+            },
+            {
+                "letter": "D",
+                "text": "5/7"
+            }
+        ],
+        "answer": "C",
+        "source": "IndiaBix",
+        "topic_url": "https://www.indiabix.com/aptitude/probability/066002"
+    },
+    {
+        "question": "From a pack of 52 cards, two cards are drawn together at random. What is the probability of both the cards being kings?",
+        "options": [
+            {
+                "letter": "A",
+                "text": "1/15"
+            },
+            {
+                "letter": "B",
+                "text": "25/57"
+            },
+            {
+                "letter": "C",
+                "text": "35/256"
+            },
+            {
+                "letter": "D",
+                "text": "1/221"
+            }
+        ],
+        "answer": "D",
+        "source": "IndiaBix",
+        "topic_url": "https://www.indiabix.com/aptitude/probability/066002"
+    },
+    {
+        "question": "Two dice are tossed. The probability that the total score is a prime number is:",
+        "options": [
+            {
+                "letter": "A",
+                "text": "1/6"
+            },
+            {
+                "letter": "B",
+                "text": "5/12"
+            },
+            {
+                "letter": "C",
+                "text": "1/2"
+            },
+            {
+                "letter": "D",
+                "text": "7/9"
+            }
+        ],
+        "answer": "B",
+        "source": "IndiaBix",
+        "topic_url": "https://www.indiabix.com/aptitude/probability/066002"
+    },
+    {
+        "question": "A card is drawn from a pack of 52 cards. The probability of getting a queen of club or a king of heart is:",
+        "options": [
+            {
+                "letter": "A",
+                "text": "1/13"
+            },
+            {
+                "letter": "B",
+                "text": "2/13"
+            },
+            {
+                "letter": "C",
+                "text": "1/26"
+            },
+            {
+                "letter": "D",
+                "text": "1/52"
+            }
+        ],
+        "answer": "C",
+        "source": "IndiaBix",
+        "topic_url": "https://www.indiabix.com/aptitude/probability/066003"
+    },
+    {
+        "question": "A bag contains 4 white, 5 red and 6 blue balls. Three balls are drawn at random from the bag. The probability that all of them are red, is:",
+        "options": [
+            {
+                "letter": "A",
+                "text": "1/22"
+            },
+            {
+                "letter": "B",
+                "text": "3/22"
+            },
+            {
+                "letter": "C",
+                "text": "2/91"
+            },
+            {
+                "letter": "D",
+                "text": "2/77"
+            }
+        ],
+        "answer": "C",
+        "source": "IndiaBix",
+        "topic_url": "https://www.indiabix.com/aptitude/probability/066003"
+    },
+    {
+        "question": "Two cards are drawn together from a pack of 52 cards. The probability that one is a spade and one is a heart, is:",
+        "options": [
+            {
+                "letter": "A",
+                "text": "3/20"
+            },
+            {
+                "letter": "B",
+                "text": "29/34"
+            },
+            {
+                "letter": "C",
+                "text": "47/100"
+            },
+            {
+                "letter": "D",
+                "text": "13/102"
+            }
+        ],
+        "answer": "D",
+        "source": "IndiaBix",
+        "topic_url": "https://www.indiabix.com/aptitude/probability/066003"
+    },
+    {
+        "question": "One card is drawn at random from a pack of 52 cards. What is the probability that the card drawn is a face card (Jack, Queen and King only)?",
+        "options": [
+            {
+                "letter": "A",
+                "text": "1/13"
+            },
+            {
+                "letter": "B",
+                "text": "3/13"
+            },
+            {
+                "letter": "C",
+                "text": "1/4"
+            },
+            {
+                "letter": "D",
+                "text": "9/52"
+            }
+        ],
+        "answer": "B",
+        "source": "IndiaBix",
+        "topic_url": "https://www.indiabix.com/aptitude/probability/066003"
+    },
+    {
+        "question": "A bag contains 6 black and 8 white balls. One ball is drawn at random. What is the probability that the ball drawn is white?",
+        "options": [
+            {
+                "letter": "A",
+                "text": "3/4"
+            },
+            {
+                "letter": "B",
+                "text": "4/7"
+            },
+            {
+                "letter": "C",
+                "text": "1/8"
+            },
+            {
+                "letter": "D",
+                "text": "3/7"
+            }
+        ],
+        "answer": "B",
+        "source": "IndiaBix",
+        "topic_url": "https://www.indiabix.com/aptitude/probability/066003"
     }
 ]
